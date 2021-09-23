@@ -1,2 +1,2 @@
 #!/bin/bash
-root whoami \n
+root@007c805b35a2:~/holberton-system_engineering-devops/0x01-shell_permissions# whoami \n
