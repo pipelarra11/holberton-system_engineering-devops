@@ -1,2 +1,2 @@
-#!/bin/bash
-$ sudo chmod (rwxr-xr-x) hello
+#!/bin/ba
+chmod 700 hello
