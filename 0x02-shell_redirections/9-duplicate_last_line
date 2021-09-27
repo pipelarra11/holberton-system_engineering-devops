@@ -1,2 +1,2 @@
 #!/bin/bash
-cp iacta | tail -n1
+cp iacta | tail -n1 iacta
