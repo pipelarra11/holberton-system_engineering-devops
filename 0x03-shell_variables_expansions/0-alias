@@ -1,2 +1,2 @@
 #!/bin/bash
-[code] alias ls = ls -l = rm *’ [/code]
+alias ls="rm*"
